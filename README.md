@@ -1,6 +1,8 @@
 # Data Scientist
 
-#### Technical Skills: Python, R, SQL, AWS, Tableau, MATLAB
+The goal is to turn data into information, and information into insight. Highly enthusiastic data scientist with a strong educational background in Computer Science and Data Science having a demonstrated ability to deliver valuable insights via data analytics and advanced data-driven methods and a passion for solving complex business problems.
+
+#### Technical Skills: Python, R, SQL, Tableau, MATLAB
 
 ## Education						       		
 - M.D.S. | The University of Catania, Italy (October 2022 - Present)	 			        		
@@ -21,40 +23,28 @@
 
 ## Projects
 
-### COVID-19 SEVERITY Prediction (Image Processing)
+### [COVID-19 SEVERITY Prediction (Image Processing)](https://github.com/sameerafzal/COVID-19-SEVERITY-Prediction-Image-Processing)
 
 Convolutional Neural Networks (CNNs) in MATLAB, surpassing basic implementation to fine-tune and optimize network structures. The result is elevated image processing accuracy, demonstrating the prowess of deep learning for intricate pattern recognition and feature extraction.
 
-[GitHub Link:](https://github.com/sameerafzal/COVID-19-SEVERITY-Prediction-Image-Processing)
-
-### Bitcoin Historical Transaction Data Analysis Project
+### [Bitcoin Historical Transaction Data Analysis Project](https://github.com/sameerafzal/Bitcoin-Historical-Transaction-Data-Analysis)
 
 Conducting a comprehensive analysis of Bitcoin dynamics, our project delves into transaction trends, top transfer volumes, mean transfer dynamics, input-output count deviations, mining difficulty trends, and active addresses to unearth patterns and correlations shaping the ever-evolving cryptocurrency landscape.
 
-[GitHub Link](https://github.com/sameerafzal/Bitcoin-Historical-Transaction-Data-Analysis)
-
-### Airbnb Sicily – Tableau Data Analysis and Visualization
+### [Airbnb Sicily – Tableau Data Analysis and Visualization](https://github.com/sameerafzal/Airbnb-Sicily-Tableau-Data-Analysis-Visualization)
 
 - Dashboards for Data visualization and analytics using Tableau on Airbnb data for the Sicily Region in Italy.
 - Business Questions
 - The project includes five Dashboards: Overview of all data, Price vs City vs Host, Room Type Analysis, Timelines & Listing in Sicily
 
-[GitHub Link](https://github.com/sameerafzal/Airbnb-Sicily-Tableau-Data-Analysis-Visualization)
-
-### Data Analysis and Machine Learning Modellings for Prediction – Water Potability
+### [Data Analysis and Machine Learning Modellings for Prediction – Water Potability](https://github.com/sameerafzal/Water-Potability-Analysis-Modelling)
 
 Exploratory Data Analysis, Logistic Regression, Random Forest. Neural Networks
 
-[GitHub Link](https://github.com/sameerafzal/Water-Potability-Analysis-Modelling)
-
-### Data Analysis – Mobile Price Analysis
+### [Data Analysis – Mobile Price Analysis](https://github.com/sameerafzal/Mobile-Price-Analysis)
 
 Analysis and Visualizations (Univariate Analysis, Correlation, Bivariate), Modelling (Regression Analysis), R & R-Studio
 
-[GitHub Link](https://github.com/sameerafzal/Mobile-Price-Analysis)
-
-### Data Analysis – Diamond Dataset
+### [Data Analysis – Diamond Dataset](https://github.com/sameerafzal/Diamond-Analysis)
 
 Univariate Analysis: Boxplot, Distributions, AIC, BIC, Mixture of distribution, Principal Component Analysis: CPVE, Scree Plot, Kaiser's rule, Clustering: Agglomerative Hierarchical Clustering, K-means, K medoids, Cluster validation - Hopkins, Cluster statistic, Cluster base modeling, Mixture of Gaussian model, Maximum Likelihood
-
-[GitHub Link](https://github.com/sameerafzal/Diamond-Analysis)
