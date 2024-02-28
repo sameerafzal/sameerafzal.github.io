@@ -1,20 +1,23 @@
 # Data Scientist
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: Python, R, SQL, AWS, Tableau, MATLAB
 
-## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+## Education						       		
+- M., Data Science	| The University of Catania, Italy (October 2022 - Present)	 			        		
+- B.S., Computer Science | DHA Suffa University, Karachi Pakistan (August 2015 - May 2019)
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+**International Tutor @ University of Catania (September 2023 - Present)**
+- Facilitate the seamless integration of international students by providing expert guidance on documentation processes, including fiscal code acquisition, residence permit applications, health care procedures, and timely scholarship applications.
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+**Software engineer @ IDEABOX (August 2019 - August 2022)**
+- Working as a Software Engineer, Mainly focusing on CRM, E-commerce Platforms, and Static or Dynamic websites.
+- Convert PSD or XD design to responsive HTML and CSS
+- Actively managing server-side deployments and databases.
+- Coordinated with the project manager to discuss the client's requirements.
+- Proactively managing project tracking tools such as Trello, Teamwork, and JIRA.
+- Provide support services to the client side.
+- Train fresh graduate software engineers with project knowledge and software processes.
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
@@ -24,9 +27,40 @@ Developed objective strategy for discovering optimal EEG bands based on signal p
 
 ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+### COVID-19 SEVERITY Prediction (Image Processing)
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+Convolutional Neural Networks (CNNs) in MATLAB, surpassing basic implementation to fine-tune and optimize network structures. The result is elevated image processing accuracy, demonstrating the prowess of deep learning for intricate pattern recognition and feature extraction.
 
-![Bike Study](/assets/img/bike_study.jpeg)
+[Link:](https://github.com/sameerafzal/COVID-19-SEVERITY-Prediction-Image-Processing)
+
+### Bitcoin Historical Transaction Data Analysis Project
+
+Conducting a comprehensive analysis of Bitcoin dynamics, our project delves into transaction trends, top transfer volumes, mean transfer dynamics, input-output count deviations, mining difficulty trends, and active addresses to unearth patterns and correlations shaping the ever-evolving cryptocurrency landscape.
+
+[Link:](https://github.com/sameerafzal/Bitcoin-Historical-Transaction-Data-Analysis)
+
+### Airbnb Sicily – Tableau Data Analysis and Visualization
+
+- Dashboards for Data visualization and analytics using Tableau on Airbnb data for the Sicily Region in Italy.
+- Business Questions
+- The project includes five Dashboards: Overview of all data, Price vs City vs Host, Room Type Analysis, Timelines & Listing in Sicily
+
+Link: https://github.com/sameerafzal/Airbnb-Sicily-Tableau-Data-Analysis-Visualization
+
+### Data Analysis and Machine Learning Modellings for Prediction – Water Potability
+
+Exploratory Data Analysis, Logistic Regression, Random Forest. Neural Networks
+
+Link: https://github.com/sameerafzal/Water-Potability-Analysis-Modelling
+
+### Data Analysis – Mobile Price Analysis
+
+Analysis and Visualizations (Univariate Analysis | Correlation | Bivariate) | Modelling (Regression Analysis) | R & R-Studio
+
+Link: https://github.com/sameerafzal/Mobile-Price-Analysis
+
+### Data Analysis – Diamond Dataset
+
+Univariate Analysis: Boxplot, Distributions, AIC, BIC, Mixture of distribution | Principal Component Analysis : CPVE, Scree Plot, Kaiser's rule | Clustering: Agglomerative Hierarchical Clustering, K-means, K medoids, Cluster validation - Hopkins, Cluster statistic, Cluster base modeling, Mixture of Gaussian model, Maximum Likelihood
+
+[Link:](https://github.com/sameerafzal/Diamond-Analysis)
