@@ -4,7 +4,7 @@
 
 ## Education						       		
 - M.D.S. | The University of Catania, Italy (October 2022 - Present)	 			        		
-- B.S.C.S. | DHA Suffa University, Karachi Pakistan (August 2015 - May 2019)
+- B.S.C.S. | DHA Suffa University, Pakistan (August 2015 - May 2019)
 
 ## Work Experience
 **International Tutor @ University of Catania (September 2023 - Present)**
