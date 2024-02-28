@@ -1,7 +1,5 @@
 # Data Scientist
 
-The goal is to turn data into information, and information into insight. Highly enthusiastic data scientist with a strong educational background in Computer Science and Data Science having a demonstrated ability to deliver valuable insights via data analytics and advanced data-driven methods and a passion for solving complex business problems.
-
 #### Technical Skills: Python, R, SQL, Tableau, MATLAB
 
 ## Education						       		
