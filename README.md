@@ -3,8 +3,8 @@
 #### Technical Skills: Python, R, SQL, AWS, Tableau, MATLAB
 
 ## Education						       		
-- M., Data Science	| The University of Catania, Italy (October 2022 - Present)	 			        		
-- B.S., Computer Science | DHA Suffa University, Karachi Pakistan (August 2015 - May 2019)
+- M.D.S. | The University of Catania, Italy (October 2022 - Present)	 			        		
+- B.S.C.S. | DHA Suffa University, Karachi Pakistan (August 2015 - May 2019)
 
 ## Work Experience
 **International Tutor @ University of Catania (September 2023 - Present)**
@@ -49,12 +49,12 @@ Exploratory Data Analysis, Logistic Regression, Random Forest. Neural Networks
 
 ### Data Analysis – Mobile Price Analysis
 
-Analysis and Visualizations (Univariate Analysis | Correlation | Bivariate) | Modelling (Regression Analysis) | R & R-Studio
+Analysis and Visualizations (Univariate Analysis, Correlation, Bivariate), Modelling (Regression Analysis), R & R-Studio
 
 [GitHub Link](https://github.com/sameerafzal/Mobile-Price-Analysis)
 
 ### Data Analysis – Diamond Dataset
 
-Univariate Analysis: Boxplot, Distributions, AIC, BIC, Mixture of distribution | Principal Component Analysis: CPVE, Scree Plot, Kaiser's rule | Clustering: Agglomerative Hierarchical Clustering, K-means, K medoids, Cluster validation - Hopkins, Cluster statistic, Cluster base modeling, Mixture of Gaussian model, Maximum Likelihood
+Univariate Analysis: Boxplot, Distributions, AIC, BIC, Mixture of distribution, Principal Component Analysis: CPVE, Scree Plot, Kaiser's rule, Clustering: Agglomerative Hierarchical Clustering, K-means, K medoids, Cluster validation - Hopkins, Cluster statistic, Cluster base modeling, Mixture of Gaussian model, Maximum Likelihood
 
 [GitHub Link](https://github.com/sameerafzal/Diamond-Analysis)
