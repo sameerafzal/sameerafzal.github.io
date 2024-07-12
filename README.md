@@ -1,13 +1,13 @@
 # Data Scientist
 
-#### Technical Skills: Python, R, SQL, Tableau, MATLAB
+#### Technical Skills: Python (pytorch), R, SQL, Tableau, Power BI, Google Looker, Google Cloud Storage (Big-Query), Data Bricks (pyspark)
 
 ## Education						       		
 - M.D.S. | The University of Catania, Italy (October 2022 - Present)	 			        		
 - B.S.C.S. | DHA Suffa University, Pakistan (August 2015 - May 2019)
 
 ## Work Experience
-**International Tutor @ University of Catania (September 2023 - Present)**
+**International Tutor @ University of Catania (September 2023 - June 2024)**
 - Facilitate the seamless integration of international students by providing expert guidance on documentation processes, including fiscal code acquisition, residence permit applications, health care procedures, and timely scholarship applications.
 
 **Software engineer @ IDEABOX (August 2019 - August 2022)**
