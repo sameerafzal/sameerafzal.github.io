@@ -7,22 +7,21 @@
 - B.S.C.S. | DHA Suffa University, Pakistan (August 2015 - May 2019)
 
 ## Work Experience
-**Intern Data Scientist @ University of Catania – DICAR (June 2024 - Present)**
-- Sensor Data Analysis: Conducted comprehensive analysis of data collected from sensors installed on a bicycle to monitor and evaluate cyclist behavior, ensuring accurate and insightful data interpretation.
-- Machine Learning Application: Applied advanced machine learning algorithms to identify key factors influencing riding dynamics and the cyclist's response to varying route conditions, enhancing predictive accuracy and performance optimization.
-- Riding Dynamics Insights: Developed actionable insights and recommendations by correlating sensor data with environmental and route-specific factors, improving overall understanding of cyclist behavior and safety considerations.
+**Data Scientist Intern** @ University of Catania – DICAR (June 2024 - Present)
+    - Conducted comprehensive analysis of sensor data from bicycles to monitor and evaluate cyclist behaviour, ensuring accurate interpretation of data.
+    - Applied advanced machine learning algorithms to identify key factors influencing riding dynamics and cyclists’ responses to varying route conditions, improving predictive accuracy and performance optimization.
+    - Developed actionable insights by correlating sensor data with environmental and route-specific factors, enhancing understanding of cyclist behaviour and safety.
 
-**International Tutor @ University of Catania (September 2023 - June 2024)**
-- Facilitate the seamless integration of international students by providing expert guidance on documentation processes, including fiscal code acquisition, residence permit applications, health care procedures, and timely scholarship applications.
+**International Tutor** @ University of Catania (September 2023 - June 2024)
+    - Assisted international students with integration by providing expert guidance on essential documentation, including fiscal code acquisition, residence permit applications, healthcare procedures, and scholarship applications.
 
-**Software engineer @ IDEABOX (August 2019 - August 2022)**
-- Working as a Software Engineer, Mainly focusing on CRM, E-commerce Platforms, and Static or Dynamic websites.
-- Convert PSD or XD design to responsive HTML and CSS
-- Actively managing server-side deployments and databases.
-- Coordinated with the project manager to discuss the client's requirements.
-- Proactively managing project tracking tools such as Trello, Teamwork, and JIRA.
-- Provide support services to the client side.
-- Train fresh graduate software engineers with project knowledge and software processes.
+**Software Engineer** @ IDEABOX (August 2019 - August 2022)
+    - Specialized in developing and maintaining CRM systems, e-commerce platforms, and dynamic/static websites.
+    - Converted design mockups (PSD/XD) into responsive HTML/CSS, ensuring cross-browser compatibility and optimal user experience.
+    - Managed server-side deployments and database configurations, ensuring reliable and scalable software solutions.
+    - Collaborated with project managers to meet client requirements and deliver high-quality software.
+    - Trained junior software engineers on project workflows and software development best practices.
+    - Utilized project management tools (Trello, Teamwork, JIRA) to ensure effective tracking and completion of projects.
 
 ## Projects
 
