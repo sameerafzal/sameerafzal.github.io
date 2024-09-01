@@ -7,6 +7,11 @@
 - B.S.C.S. | DHA Suffa University, Pakistan (August 2015 - May 2019)
 
 ## Work Experience
+**Intern Data Scientist @ University of Catania – DICAR (June 2024 - Present)**
+- Sensor Data Analysis: Conducted comprehensive analysis of data collected from sensors installed on a bicycle to monitor and evaluate cyclist behavior, ensuring accurate and insightful data interpretation.
+- Machine Learning Application: Applied advanced machine learning algorithms to identify key factors influencing riding dynamics and the cyclist's response to varying route conditions, enhancing predictive accuracy and performance optimization.
+- Riding Dynamics Insights: Developed actionable insights and recommendations by correlating sensor data with environmental and route-specific factors, improving overall understanding of cyclist behavior and safety considerations.
+
 **International Tutor @ University of Catania (September 2023 - June 2024)**
 - Facilitate the seamless integration of international students by providing expert guidance on documentation processes, including fiscal code acquisition, residence permit applications, health care procedures, and timely scholarship applications.
 
@@ -20,6 +25,22 @@
 - Train fresh graduate software engineers with project knowledge and software processes.
 
 ## Projects
+
+### Thesis – Explainable AI
+
+Led the development and training of AI models focusing on explainability, utilizing SHAP and LIME to assess feature importance and make AI decisions more transparent and interpretable.
+
+### [Deep Learning – Fish Classification](https://github.com/sameerafzal/FISH-CLASSIFICATION-USING-PSEUDO-LABELLING-DEEP-LEARNING-PYTORCH)
+
+Leveraging semi-supervised learning and pseudo-labelling, this project enhances image classification accuracy for fish species, showcasing the potential of deep learning in handling limited labelled data for improved classification outcomes.
+
+### [Cloud – Sale Analysis (Google Cloud Storage and Data Bricks)](https://github.com/sameerafzal/DAT-ANALYSIS-FOR-ONLINE-SALE-GOOGLE-CLOUD-DATA-BRICK)
+
+Utilizing Big Query, PySpark, and Google Looker, this project comprehensively analyses online sales data, harnessing cloud-based tools to uncover insights and trends driving business decisions.
+
+### [Data Analysis – Diabetes Prediction](https://github.com/sameerafzal/Diabetes-Prediction-using-Machine-Learning-Python)
+
+This project involves exploratory data analysis, feature engineering, and machine learning modeling in Python to predict diabetes, highlighting the application of data science techniques in healthcare.
 
 ### [COVID-19 SEVERITY Prediction (Image Processing)](https://github.com/sameerafzal/COVID-19-SEVERITY-Prediction-Image-Processing)
 
