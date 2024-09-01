@@ -8,20 +8,20 @@
 
 ## Work Experience
 **Data Scientist Intern** @ University of Catania – DICAR (June 2024 - Present)
-    - Conducted comprehensive analysis of sensor data from bicycles to monitor and evaluate cyclist behaviour, ensuring accurate interpretation of data.
-    - Applied advanced machine learning algorithms to identify key factors influencing riding dynamics and cyclists’ responses to varying route conditions, improving predictive accuracy and performance optimization.
-    - Developed actionable insights by correlating sensor data with environmental and route-specific factors, enhancing understanding of cyclist behaviour and safety.
+- Conducted comprehensive analysis of sensor data from bicycles to monitor and evaluate cyclist behaviour, ensuring accurate interpretation of data.
+- Applied advanced machine learning algorithms to identify key factors influencing riding dynamics and cyclists’ responses to varying route conditions, improving predictive accuracy and performance optimization.
+- Developed actionable insights by correlating sensor data with environmental and route-specific factors, enhancing understanding of cyclist behaviour and safety.
 
 **International Tutor** @ University of Catania (September 2023 - June 2024)
-    - Assisted international students with integration by providing expert guidance on essential documentation, including fiscal code acquisition, residence permit applications, healthcare procedures, and scholarship applications.
+- Assisted international students with integration by providing expert guidance on essential documentation, including fiscal code acquisition, residence permit applications, healthcare procedures, and scholarship applications.
 
 **Software Engineer** @ IDEABOX (August 2019 - August 2022)
-    - Specialized in developing and maintaining CRM systems, e-commerce platforms, and dynamic/static websites.
-    - Converted design mockups (PSD/XD) into responsive HTML/CSS, ensuring cross-browser compatibility and optimal user experience.
-    - Managed server-side deployments and database configurations, ensuring reliable and scalable software solutions.
-    - Collaborated with project managers to meet client requirements and deliver high-quality software.
-    - Trained junior software engineers on project workflows and software development best practices.
-    - Utilized project management tools (Trello, Teamwork, JIRA) to ensure effective tracking and completion of projects.
+- Specialized in developing and maintaining CRM systems, e-commerce platforms, and dynamic/static websites.
+- Converted design mockups (PSD/XD) into responsive HTML/CSS, ensuring cross-browser compatibility and optimal user experience.
+- Managed server-side deployments and database configurations, ensuring reliable and scalable software solutions.
+- Collaborated with project managers to meet client requirements and deliver high-quality software.
+- Trained junior software engineers on project workflows and software development best practices.
+- Utilized project management tools (Trello, Teamwork, JIRA) to ensure effective tracking and completion of projects.
 
 ## Projects
 
