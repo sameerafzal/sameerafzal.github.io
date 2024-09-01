@@ -7,7 +7,7 @@
 - B.S.C.S. | DHA Suffa University, Pakistan (August 2015 - May 2019)
 
 ## Work Experience
-**Data Scientist Intern** @ University of Catania – DICAR (June 2024 - Present)
+**Data Scientist Intern** @ University of Catania – DICAR (July 2024 - Present)
 - Conducted comprehensive analysis of sensor data from bicycles to monitor and evaluate cyclist behaviour, ensuring accurate interpretation of data.
 - Applied advanced machine learning algorithms to identify key factors influencing riding dynamics and cyclists’ responses to varying route conditions, improving predictive accuracy and performance optimization.
 - Developed actionable insights by correlating sensor data with environmental and route-specific factors, enhancing understanding of cyclist behaviour and safety.
